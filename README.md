@@ -1,7 +1,7 @@
 Name: PRAVIN KUMAR A.
 
 Register Number: 212223230155
-# EXPERIMENT 07 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
+# EXPERIMENT 06 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -266,11 +266,11 @@ TOTAL TIME = 1.2ms
 FREQUENCY = 1/(1.2ms) = 833.33Hz
 
 ## OUTPUT SCREENSHOTS OF PROTEUS:
-![Proteus Screenshot](https://github.com/amal-2006/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/148410730/0b9be261-6732-4764-b89d-fd0ff58f92b0)
+![Screenshot 2025-05-19 143510](https://github.com/user-attachments/assets/875a6729-9cbe-4edd-8b3f-ccbcde55e225)
 
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
-![Circuit Diagram](https://github.com/amal-2006/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/148410730/46151de5-9188-4aab-baec-07e5d61b2c2e)
+![Screenshot 2025-05-19 143457](https://github.com/user-attachments/assets/861f6024-7cae-4231-9e78-c23f9290c6d2)
 
  
 ## Result :
